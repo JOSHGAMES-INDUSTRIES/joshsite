@@ -1,7 +1,7 @@
 ---
 layout: faq
 title: "who am i?"
-image: /assets/faq/legacy4j.png
+image: /assets/faq/whoami.png
 permalink: /faq/whoami
 type: faq
 preview-text: | 
