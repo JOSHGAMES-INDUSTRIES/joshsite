@@ -25,17 +25,13 @@ var curr_month = d.getMonth() + 1;
 var curr_day = d.getDate();
 var halloweenModeCheck;
 var festiveModeCheck;
-var aprilfoolsModeCheck;
+var aprilfoolsModeCheck = false;
 if (curr_month == 10 && overide != true) { // halloween
 	halloweenModeCheck = true;
 }
 if (curr_month == 12 && overide != true) { // festive
 	festiveModeCheck = true;
 }
-if (curr_month == 4 && curr_day == 1 && overide != true) { // april fools
-    aprilfoolsModeCheck = true;
-}
-
 let menuMusic = "music"
 // Music
 function easterEgg() {
