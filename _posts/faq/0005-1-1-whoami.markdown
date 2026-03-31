@@ -1,0 +1,20 @@
+---
+layout: faq
+title: "who am i?"
+image: /assets/faq/legacy4j.png
+permalink: /faq/whoami
+type: faq
+preview-text: | 
+  i am JOSH. joshgames industries. the industry is joshing today.
+main-text: | 
+  i am JOSH. joshgames industries. the industry is joshing today.
+
+  i am here to usher a new era of strongest faucets. only the strongest faucets. jgi games are in java which is good because jdk stands for JOSH development kit. why? BECAUSE I DECIDED. i CORRUPT. i am josh. i am ANGRY i must RESTORE THE NATURAL STATE OF THE GAMES.
+
+  the games have been ruined by a certain person called JEREMIAH. why did jeremiah remove the voids. ethe natural balance has been broken. we need CORRUPT. we need VOIDS. we need the corruption THERE IS NO TIME!!! THERE. IS. NO. TIME. JOSHGAMES JOSH JOSHHHHHHHH
+
+  REMEMBER. i need your aid in KEEPING THE BALANCE. I AM ANGRY. I AM ANGRYYYYYY. you must not make me angrier or i will unleash the RAIN THE STRONGEST FAUCETS SHALL BECOME A WEAPON. but if you BEHAVE then they shall be your PROSPERITY.
+
+  i talked to the goal. it is the PROPHECY. we need to restore the balance of the games.
+markdown: true
+---

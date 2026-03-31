@@ -1,26 +1,16 @@
 ---
 layout: faq
-title: "When will the latest version be supported?"
+title: "why do newer versions not work"
 image: /assets/faq/updatewhen.png
 permalink: /faq/updatewhen
 type: faq
 preview-text: | 
-  Updating the server is a lengthy process, taking a significant amount of effort from multiple developers. Please be patient.
-
-  It takes on average 2 months for the server to be fully updated and tested with said update, however this can be delayed if there are any major breaking changes.
+  THERE IS NO TIME!!! THE SERVER WOULD NEED TO BE UPDATED!!! BUT I NEED TO REACH THE GOAL!!!
 main-text: | 
-  Updating the server is a lengthy process, taking a significant amount of effort from multiple developers. Please be patient.
+  THERE IS NO TIME!!! THE SERVER WOULD NEED TO BE UPDATED!!! BUT I NEED TO REACH THE GOAL!!!
 
-  It takes on average 2 months for the server to be fully updated and tested with said update, however this can be delayed if there are any major breaking changes.
+  SO I TALKED TO THE GOAL OKAY. THE GOAL. I TALKED TO THE GOAL. DO YOU KNOW WHAT HAPPENED??? THERE WAS NO TIME! THE LIGHT WAS OCMING FOR ME. IT WAS. THE L9IGHT. THE LIGHT THE LIGHT. NO. GIVE ME YOUR STRONGEST FAUCETS I NEED YOUR STRONGEST FAUCETS GIVE ME YOUR STRONGEST FAUCETS I NEED YOUR STRONGEST FAUCETS GIVE ME YOUR STRONGEST FAUCETS I NEED YOUR STRONGEST FAUCETS GIVE ME YOUR STRONGEST FAUCETS I NEED YOUR STRONGEST FAUCETS
 
-  When updates are ready for testing, they will become available on the Experimental Server, joined with the IP *test.legacyminigames.net*.
-
-  # Current stable version: 1.20.4
-
-  # Current experimental version: 1.20.4
-
-  ## 1.21 Version
-
-  We are currently making some very large backend changes to LEM, for both ModTools 2 and LEM as a whole. This means the next version will take a while to release, which includes the release of 1.21 support. **There is no ETA of when it will be available at this time.**
+  THE SERVER IS ON 1.20.4 WHICH IS GOOD BECAUSE 4 IS MY NUMBER AND IT ENDS IN 4 SO 1.20.4 JOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMESJOSHGAMES
 markdown: true
 ---
