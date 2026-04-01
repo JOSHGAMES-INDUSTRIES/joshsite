@@ -2,7 +2,7 @@
 
 This is the website for JOSHGAMES INDUSTRIES.
 
-![License](https://img.shields.io/github/license/DBTDerpbox/LEM-Website?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/LEM-Website?style=for-the-badge) ![STRONGEST FAUCETS](https://img.shields.io/badge/STRONGEST-FAUCETS-e49454?style=for-the-badge)
+![License](https://img.shields.io/github/license/DBTDerpbox/LEM-Website?style=for-the-badge) ![LAST COMMIT SOMEDAY](https://img.shields.io/badge/LAST-COMMIT-SOMEDAY-e49454?style=for-the-badge) ![STRONGEST FAUCETS](https://img.shields.io/badge/STRONGEST-FAUCETS-e49454?style=for-the-badge)
 
 ![Powered By POWER](https://img.shields.io/badge/Powered_by-POWER-e49454?style=for-the-badge)
 
