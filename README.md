@@ -8,7 +8,7 @@ This is the website for JOSHGAMES INDUSTRIES.
 
 volkswagen passat 1.9 tdi volkswagen passat 1.9 tdi volkswagen passat 1.9 tdi volkswagen passat 1.9 tdi 
 
-You can view the live site at [www.legacyminigames.net](http://www.legacyminigames.net/)
+You can view the live site at [josh.legacyminigames.net](http://josh.legacyminigames.net/)
 
 ### Credits
 
