@@ -1,4 +1,4 @@
-# LEM Website
+# jgi Website
 
 This is the website for JOSHGAMES INDUSTRIES.
 
