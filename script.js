@@ -25,7 +25,7 @@ var curr_month = d.getMonth() + 1;
 var curr_day = d.getDate();
 var halloweenModeCheck;
 var festiveModeCheck;
-var aprilfoolsModeCheck = false;
+var aprilfoolsModeCheck = false; // too lazy to do any better, tbh this is how josh would do it
 if (curr_month == 10 && overide != true) { // halloween
 	halloweenModeCheck = true;
 }
