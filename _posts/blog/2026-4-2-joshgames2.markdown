@@ -5,7 +5,7 @@ image: /assets/blog/Screenshot_20260402_162519.png
 permalink: /blog/joshgames-industries-is-evolving
 type: blog
 preview-text: | 
-  i am JOSH. i have come to CORRUPT THE GAMES. i am the one. the only. the JOSHHHHHHHHHHHHHH. and i am ANGRY so BE CAREFUL
+  hello my fellow joshgamers. today i will walk you through what we did
 main-text: | 
   hello my fellow joshgamers. today i will walk you through what we did
 
