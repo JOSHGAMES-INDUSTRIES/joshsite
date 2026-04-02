@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "JOSHGAMES INDUSTRIES IS EVOLVING"
+title: "REACHING THE GOAL LIVESTREAM"
 image: /assets/blog/JOSHBG.png
-permalink: /blog/joshgames-industries-is-evolving
+permalink: /blog/reaching-the-goal
 type: blog
 preview-text: | 
   i am now LIVE. reaching the goal. JOIN ME
