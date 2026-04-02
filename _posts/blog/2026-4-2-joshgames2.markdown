@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JOSHGAMES INDUSTRIES IS EVOLVING"
-image: /assets/blog/default.png
+image: /assets/blog/Screenshot_20260402_162519.png
 permalink: /blog/joshgames-industries-is-evolving
 type: blog
 preview-text: | 
