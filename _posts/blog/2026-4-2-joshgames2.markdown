@@ -17,6 +17,10 @@ main-text: |
 
   we are reaching the goal. i talked to the goal. tune in to the next youtube livestream with me
 
+  countdown until the stream
+
+  [https://www.tickcounter.com/countdown/9894275/joshgames-industries-reaching-the-goal](https://www.tickcounter.com/countdown/9894275/joshgames-industries-reaching-the-goal)
+
   joshgames industries forever
 
   joshgames
